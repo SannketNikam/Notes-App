@@ -15,7 +15,7 @@ Built with HTML, CSS, and JavaScript for Frontend and Flask and SQLite for Backe
 # Installation:
 1. Clone the repository to your local machine:
 ```
-https://github.com/SannketNikam/Notes-App.git
+git clone https://github.com/SannketNikam/Notes-App.git
 ```
 
 2. Install the 'requirements.txt':
